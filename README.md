@@ -12,6 +12,12 @@ atualmente estou me especializando em:
   <br />
 <Strong>- JavaScript  </Strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>
 
+
+
+
+
+
+
 <div>
     <a href="https://github.com/michalPortes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalPortes&layout=compact&langs_count=7&theme=dracula"/>
