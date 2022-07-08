@@ -8,7 +8,7 @@ no mundo da tecnologia para entregar os melhores resultados na minha área de at
 atualmente estou me especializando em: 
 
 
-<strong>- ReactJS  </strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25" align-item="center"/>
+<strong>- ReactJS  </strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25"/>
   <br />
 <Strong>- JavaScript  </Strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>
 
