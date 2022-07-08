@@ -5,4 +5,18 @@ em desenvolvimento de software com o framework Angular e .NET na empresa Embraer
 
 Sou apaixonado por resolver problemas e por isso busco constantemente me atualizar
 no mundo da tecnologia para entregar os melhores resultados na minha área de atuação,
-atualmente estou me especializando em ReactJS.
+atualmente estou me especializando em: 
+
+
+ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>>
+JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+
+<div>
+    <a href="https://github.com/michalPortes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalPortes&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=michalPortes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+![Snake animation](https://github.com/michalPortes/michalPortes/blob/output/github-contribution-grid-snake.svg)
