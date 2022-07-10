@@ -15,8 +15,14 @@ atualmente estou me especializando em  React;
 ### - Estudando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-<div style="padding-top:40px;">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div>
     <a href="https://github.com/michalPortes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalPortes&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michalPortes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
