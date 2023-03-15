@@ -1,23 +1,17 @@
 ### Bem vindo ao meu github! \o/
 
-Me chamo Michael, sou studante de Ciência da Computação, com histórico de atuação
-em desenvolvimento de software com o framework Angular e .NET na empresa Embraer S.A;
+  Sou um desenvolvedor de software junior especializado em front-end, 
+apaixonado por criar experiências incríveis e interativas para os usuários. 
+  Com habilidades sólidas em HTML, CSS e JavaScript, bem como em frameworks 
+como React e Angular, estou sempre em busca de novos desafios e oportunidades 
+para expandir meus conhecimentos e habilidades.
 
-Sou apaixonado por resolver problemas e por isso busco constantemente me atualizar
-no mundo da tecnologia para entregar os melhores resultados na minha área de atuação,
-atualmente estou me especializando em  React; 
-
-### - Trabalho
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
+  Tenho um forte compromisso em entregar soluções de qualidade e trabalhar 
+em equipe para atender às necessidades do projeto. 
+  Além disso, sou dedicado a aprender e me atualizar constantemente sobre 
+as tendências e tecnologias mais recentes do front-end.
 
 <br/>
 <br/>
-
-### - Estudando
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-
 
 <img src='https://github-readme-stats.vercel.app/api?username=michalportes&theme=white&bg_color=80FF0000&hide_border=false&show_icons=true&count_private=true)' />
